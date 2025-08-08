@@ -1,14 +1,14 @@
-#🍽️ Online Food Restaurant – Django Guided Project
+# 🍽️ Online Food Restaurant – Django Guided Project
 
 
 
-##📌 Overview
+## 📌 Overview
 This project is a guided Django application that simulates an Online Food Restaurant platform.
 It allows customers to browse food items, add them to a cart, place orders, and track their status, while the admin can manage menus and process orders.
 
 The goal of this project is both practical and educational, helping me strengthen my backend development skills with Django while implementing real-world e-commerce features.
 
-##🎯 Features
+## 🎯 Features
 ✅ User Authentication – Register, login, logout
 
 ✅ Menu Browsing – View categories and food items
@@ -23,7 +23,7 @@ The goal of this project is both practical and educational, helping me strengthe
 
 ✅ Responsive Design – Works on mobile and desktop
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Backend: Django (Python)
 
 Database: SQLite (default) or PostgreSQL (production)
